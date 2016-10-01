@@ -1,0 +1,4 @@
+github "thoughtbot/Curry" "408134ffa8dd1c09b0050f65eae300381b934bf6"
+github "Quick/Nimble" "v5.0.0"
+github "Quick/Quick" "v0.10.0"
+github "mrackwitz/xcconfigs" "3.0"

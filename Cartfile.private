@@ -1,0 +1,4 @@
+github "thoughtbot/Curry" "master"
+github "Quick/Quick" ~> 0.10.0
+github "Quick/Nimble" ~> 5.0.0
+github "mrackwitz/xcconfigs"
