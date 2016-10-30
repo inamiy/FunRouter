@@ -100,12 +100,13 @@ optimizedRoute = .match("R", .choice([
 ## References
 
 - Talk
-    - TBD
-- Parser Combinator
+    - [Yasuhiro Inami - Type-safe URL routing in Swift - YouTube](https://www.youtube.com/watch?v=RJy_2Si6Bpw) (video)
+    - [Type-safe URL Routing in Swift // Speaker Deck](https://speakerdeck.com/inamiy/type-safe-url-routing-in-swift) (slide)
+- (Related) Parser Combinator
     - [Parser Combinators in Swift](https://realm.io/news/tryswift-yasuhiro-inami-parser-combinator/) (video)
     - [Parser Combinator in Swift // Speaker Deck](https://speakerdeck.com/inamiy/parser-combinator-in-swift) (slide)
 
 
-## Licence
+## License
 
 [MIT](LICENSE)
